@@ -12,3 +12,4 @@ solo pa probar como funciona esta weva
 
 ## Marco Teorico
 Este es el marco teorico
+# este erick es meco
